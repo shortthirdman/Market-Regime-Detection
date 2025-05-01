@@ -1,0 +1,11 @@
+notebook
+jupyterlab
+ipywidgets
+jupyter-lsp
+featuretools
+python-dotenv
+jupyterlab-lsp
+jupyterlab_widgets
+jedi-language-server
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
